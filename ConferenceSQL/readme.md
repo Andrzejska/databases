@@ -1,1 +1,1 @@
-## Conference management DataBase created for Data Base classes 
+## Conference management database created for Data Base classes 
